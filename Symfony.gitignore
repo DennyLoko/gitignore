@@ -35,3 +35,11 @@
 
 # Composer PHAR
 /composer.phar
+
+# Web configuration script
+/web/config.php
+
+# Demo
+/src/Acme/
+/src/AppBundle/
+
